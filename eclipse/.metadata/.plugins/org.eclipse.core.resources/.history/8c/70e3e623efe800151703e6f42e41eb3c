@@ -1,0 +1,5 @@
+package com.gameai.mazegeneration.mazesrc;
+
+public class MazeGenerator {
+
+}

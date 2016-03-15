@@ -1,0 +1,22 @@
+[
+{
+	"modid": "KM",
+	"name": "Kasslim's mazes",
+	"description": "This mod generates good mazes.",
+	"version": "1.7.10_A",
+	"url": "N.A. at the moment.",
+	"updateUrl": "",
+	"authorList": [
+	"Kasslim"
+	],
+	"credits": "Pahimar (For the great tutorials.)",
+	"logoFile": "",
+	"screenshots": [
+	
+	],
+	"parent": "",
+	"dependencies": [
+	
+	]
+}
+]

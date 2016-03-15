@@ -1,0 +1,22 @@
+package ai;
+
+import cpw.mods.fml.common.Mod;
+import net.minecraft.entity.ai.EntityAIBase;
+import net.minecraft.world.World;
+
+@Mod(modid = "MazeAI", name = "MazeAI", version = "1.0.0", dependencies = "required-after:KM@1.7.10_A")
+
+public class EntityCustomAI extends EntityAIBase {
+
+	public EntityCustomAI() {
+	}
+	
+
+	@Override
+	public boolean shouldExecute() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+	
+	
+}

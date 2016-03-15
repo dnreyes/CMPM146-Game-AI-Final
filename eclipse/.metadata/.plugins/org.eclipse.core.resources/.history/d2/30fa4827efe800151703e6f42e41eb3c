@@ -1,0 +1,7 @@
+package com.gameai.mazegeneration.resources;
+
+public enum Biome {
+	PLAINS,
+	MESA,
+	MESA_PLATEU
+}

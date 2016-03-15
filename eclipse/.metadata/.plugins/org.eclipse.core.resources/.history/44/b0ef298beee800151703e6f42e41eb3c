@@ -1,0 +1,5 @@
+package com.gameai.mazegeneration.resources;
+
+public abstract class ChunkGenerator {
+
+}

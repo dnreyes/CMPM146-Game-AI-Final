@@ -1,0 +1,13 @@
+package ai;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid = "MazeAI", name = "MazeAI", version = "1.0.0", dependencies = "required-after:KM@1.7.10_A")
+
+public class EntityCustomAI {
+
+	public void Start() {
+		System.out.println("I am running the mod successfully!");
+	}
+	
+}
