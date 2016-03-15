@@ -4,4 +4,11 @@
 <fullyQualifiedTypeName name="net.minecraft.world.World"/>
 <fullyQualifiedTypeName name="net.minecraft.block.Block"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.Mod"/>
+<fullyQualifiedTypeName name="net.minecraft.tileentity.MobSpawnerBaseLogic"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.EntityCreature"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.ai.EntityAIBase"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.Entity"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.player.EntityPlayer"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.eventhandler.SubscribeEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.gameevent.TickEvent.PlayerTickEvent"/>
 </qualifiedTypeNameHistroy>
